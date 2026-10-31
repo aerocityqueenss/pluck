@@ -1,7 +1,0 @@
-
-  PLUCK · local stream extractor
-  http://127.0.0.1:7777
-  Chrome: C:/Program Files/Google/Chrome/Application/chrome.exe
-  ffmpeg: ffmpeg
-  Access: open, anyone who reaches this port is you
-
